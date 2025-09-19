@@ -1,4 +1,4 @@
 # Just-Practice
 Parctice
 <br>
-Author - Jayhind
+Author - Jayhind Chauhan
